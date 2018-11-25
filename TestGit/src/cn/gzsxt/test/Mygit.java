@@ -6,4 +6,8 @@ public class Mygit {
 		System.out.println(a);
 		System.out.println("123");
 	}
+	
+	public void testGit(){
+		System.out.println("hello,remote");
+	}
 }
